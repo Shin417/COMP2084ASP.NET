@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Lab3-b44ee679-e9ea-4c9b-a919-179187e2256d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab3")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+780789a9dd62b0c879c3c21495dad0e94bbeb4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab3")]
