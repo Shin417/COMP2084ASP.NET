@@ -40,4 +40,23 @@ public void Product_PropertiesSetCorrectly()
    Assert.Equal("Test product description", product.Description);
 
 }
+
+[Fact]
+
+public void Product_StringTest(){
+
+    //arrange
+    var product = new Product{
+        Id = 1,
+        Name = "Menu_1",
+        Price = 4.50m,
+        Description = "Description_1"
+    };
+
+    //Act
+
+    //Assert
+    Assert.Contains(product.Id.ToString(), product.Name);
+    Assert.Contains(product.Id.ToString(), product.Description);
+}
 }

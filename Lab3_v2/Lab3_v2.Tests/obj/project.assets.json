@@ -9070,11 +9070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shin/Downloads/COMP2084ASP.NET_v2-main/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
+      "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
       "projectName": "Lab3_v2.Tests",
-      "projectPath": "/Users/shin/Downloads/COMP2084ASP.NET_v2-main/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
+      "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
       "packagesPath": "/Users/shin/.nuget/packages/",
-      "outputPath": "/Users/shin/Downloads/COMP2084ASP.NET_v2-main/Lab3_v2/Lab3_v2.Tests/obj/",
+      "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shin/.nuget/NuGet/NuGet.Config"
@@ -9090,8 +9090,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/shin/Downloads/COMP2084ASP.NET_v2-main/Lab3_v2/Lab3_v2/Lab3_v2.csproj": {
-              "projectPath": "/Users/shin/Downloads/COMP2084ASP.NET_v2-main/Lab3_v2/Lab3_v2/Lab3_v2.csproj"
+            "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj": {
+              "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj"
             }
           }
         }
