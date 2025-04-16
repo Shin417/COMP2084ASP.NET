@@ -13,13 +13,9 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Lab3-b44ee679-e9ea-4c9b-a919-179187e2256d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab3")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad38fc89a790765e85a044264073bb1fad573ea3")]
-=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+780789a9dd62b0c879c3c21495dad0e94bbeb4fb")]
->>>>>>> 206321265be579c2b489ea115e3f6ff5c9bbff36
 [assembly: System.Reflection.AssemblyProductAttribute("Lab3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
