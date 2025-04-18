@@ -8192,11 +8192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj",
+      "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj",
       "projectName": "Lab3_v2",
-      "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj",
+      "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj",
       "packagesPath": "/Users/shin/.nuget/packages/",
-      "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/obj/",
+      "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shin/.nuget/NuGet/NuGet.Config"

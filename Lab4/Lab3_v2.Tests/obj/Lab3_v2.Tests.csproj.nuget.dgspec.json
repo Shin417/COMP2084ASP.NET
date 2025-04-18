@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj": {}
+    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2.Tests/Lab3_v2.Tests.csproj": {}
   },
   "projects": {
-    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj": {
+    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2.Tests/Lab3_v2.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
+        "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
         "projectName": "Lab3_v2.Tests",
-        "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
+        "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2.Tests/Lab3_v2.Tests.csproj",
         "packagesPath": "/Users/shin/.nuget/packages/",
-        "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2.Tests/obj/",
+        "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shin/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj": {
-                "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj"
+              "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj": {
+                "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj": {
+    "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj",
+        "projectUniqueName": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj",
         "projectName": "Lab3_v2",
-        "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/Lab3_v2.csproj",
+        "projectPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/Lab3_v2.csproj",
         "packagesPath": "/Users/shin/.nuget/packages/",
-        "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab3_v2/Lab3_v2/obj/",
+        "outputPath": "/Users/shin/Documents/georgian_college/COMP2084-25W-C#.NET/COMP2084ASP.NET/Lab4/Lab3_v2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shin/.nuget/NuGet/NuGet.Config"
